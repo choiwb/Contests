@@ -10,3 +10,5 @@ DWT_RGB.m 참고)
 - 2017 빅콘테스트 퓨처스리그 공모전 용 (영화관객수 예측)
 2017년 10월 3가지 개봉예정 영화 : 킹스맨 2, 남한산성, 넛잡 2.
 Results is 퓨처스리그_영화관객수예측.pdf in this folder
+
+collaborators : Woobin Choi , Hoon Seo , Bonggun Chu at Kyung Hee Univ.
